@@ -7,7 +7,8 @@
   },
   "private": true,
   "scripts": {
-    "build": "slidev build --base ./",
+    "build": "slidev build",
+    "build:local": "slidev build --base ./",
     "dev": "slidev --open",
     "export": "slidev export",
     "test:types": "vue-tsc -p tsconfig.json",
