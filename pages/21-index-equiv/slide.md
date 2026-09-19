@@ -24,9 +24,7 @@ Lecture :
 </TheHint>
 
 <!--
-À expliquer rapidement, sans en faire un chapitre :
-- EQUIV répond à la question "où est la ligne ?".
-- INDEX répond à la question "quelle valeur prendre à cette ligne ?".
-- La combinaison est plus flexible que RECHERCHEV, mais moins immédiate pour débuter.
-- Objectif pour eux : savoir reconnaître la logique, pas devenir experts de toutes les variantes.
+Mémo : `EQUIV` trouve où se trouve la donnée ; `INDEX` récupère la valeur située à cette position.
+
+`INDEX` + `EQUIV` est plus flexible que `RECHERCHEV`, notamment lorsque la colonne à retourner se trouve à gauche ou lorsque la structure du tableau évolue.
 -->

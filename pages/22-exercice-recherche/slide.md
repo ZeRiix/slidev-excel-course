@@ -59,15 +59,5 @@ Pour éviter d'afficher une erreur brute, envelopper une formule avec `SIERREUR`
 </TheHint>
 
 <!--
-Pendant la correction :
-- montrer d'abord la formule RECHERCHEV brute ;
-- provoquer ou repérer le `#N/A` sur `PRD-999` ;
-- expliquer que `SIERREUR` permet de remplacer une erreur technique par un message lisible ;
-- préciser que ce n'est pas fait pour cacher les problèmes sans comprendre leur cause.
-
-Exemple possible :
-=SIERREUR(RECHERCHEV(D2;Catalogue;2;FAUX);"Code inconnu")
-
-Si le temps le permet, montrer une seule version INDEX + EQUIV pour le produit :
-=SIERREUR(INDEX(B2:B6;EQUIV(D2;A2:A6;0));"Code inconnu")
+Attention : `SIERREUR` permet de rendre une erreur plus lisible, mais ne doit pas servir à masquer une erreur sans en comprendre la cause.
 -->

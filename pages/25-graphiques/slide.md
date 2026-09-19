@@ -21,10 +21,9 @@ Deux cas fréquents :
 - axes et légende utiles.
 
 <!--
-À expliquer à l'oral :
-- Un graphique classique représente directement une plage de cellules.
-- Un graphique croisé dynamique reste lié au TCD : quand on filtre ou modifie les champs du TCD, le graphique suit.
-- Pour un graphique classique : sélectionner la plage, puis Insertion > Graphiques.
-- Pour un graphique croisé dynamique : cliquer dans le TCD, puis Insertion > Graphique croisé dynamique.
-- Le but n'est pas de décorer : le graphique doit rendre une comparaison plus rapide à lire.
+À retenir : un graphique doit faciliter la lecture ou la comparaison d'une information, pas simplement décorer le tableau.
+
+Un graphique croisé dynamique reste lié à son TCD : les filtres et modifications du TCD se répercutent sur le graphique.
+
+Tip : supprimer les éléments visuels inutiles rend souvent un graphique plus lisible.
 -->

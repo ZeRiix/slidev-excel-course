@@ -25,14 +25,9 @@ Repères :
 - Fonctions combinables.
 
 <!--
-Insister à l'oral : l'objectif n'est pas de connaître toutes les fonctions par coeur.
-Le vrai réflexe professionnel est de savoir chercher dans Excel, lire les arguments attendus, puis tester sur un petit exemple.
+À retenir : il n'est pas nécessaire de connaître toutes les fonctions par cœur. Le bon réflexe est de savoir chercher une fonction, lire ses arguments et la tester sur un petit exemple.
 
-Montrer le bouton fx dans Excel :
-- recherche par mot-clé ;
-- description courte de la fonction ;
-- champs à compléter ;
-- aide intégrée.
+Tip : le bouton `fx` permet de rechercher une fonction et de voir les arguments attendus.
 
-Faire le lien avec la programmation : une fonction a un nom, des arguments et un résultat.
+Attention : `NB` compte uniquement les cellules contenant des nombres.
 -->

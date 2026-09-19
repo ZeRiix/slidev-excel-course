@@ -24,17 +24,11 @@ Zones à repérer :
 - `Filtres`
 
 <!--
-À expliquer à l'oral :
-- Un TCD n'est pas une formule, c'est un outil de synthèse.
-- Il sert surtout à explorer une liste : compter, additionner, faire des moyennes, croiser deux catégories.
-- Avant de créer le TCD, vérifier rapidement la source : titres clairs, pas de lignes vides, pas de cellules fusionnées, une information par colonne.
-- Ne pas en faire une grande théorie : montrer une source correcte et une source incorrecte suffit.
+À retenir : une bonne source de TCD possède une ligne d'en-têtes, une information par colonne, aucune ligne vide au milieu des données et aucune cellule fusionnée.
 
-Démo suggérée :
-1. Sélectionner la source.
-2. Insertion > Tableau croisé dynamique.
-3. Placer `Service` en lignes.
-4. Placer `Domaine formation` en colonnes.
-5. Placer `Nom` ou `Demande` en valeurs pour compter.
+Un TCD est un outil de synthèse : il permet notamment de compter, additionner, calculer des moyennes et croiser plusieurs catégories.
+
+Tip : transformer la source en Tableau Excel avec `Ctrl + T` facilite l'ajout de nouvelles lignes et la maintenance de la source.
+
+Attention : si les données sources changent, pensez à actualiser le TCD.
 -->
-

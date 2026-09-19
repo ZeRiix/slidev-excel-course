@@ -22,3 +22,11 @@ Une formule peut cibler une cellule seule, plusieurs cellules séparées ou tout
 - `:` signifie "de cette cellule à cette cellule".
 - `;` sépare plusieurs éléments dans une fonction (plage, valeur, cellule).
 - Une plage évite d'écrire toutes les cellules une par une.
+
+<!--
+À retenir : `:` désigne une plage continue. Dans Excel en français, `;` sépare généralement les arguments d'une fonction.
+
+Attention : selon la langue ou la configuration d'Excel, `,` peut être utilisé à la place de `;`.
+
+Tip : pendant l'écriture d'une formule, sélectionnez directement la plage à la souris plutôt que de saisir manuellement son adresse.
+-->

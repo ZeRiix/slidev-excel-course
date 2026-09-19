@@ -20,17 +20,7 @@ Créer une synthèse exploitable à partir du fichier CSV fourni.
 - Un graphique croisé dynamique lisible.
 
 <!--
-Prévoir de donner le CSV aux étudiants plutôt que de leur faire recopier les données.
+Mémo : avant de créer un TCD, vérifiez que la source est propre : en-têtes présents, colonnes cohérentes, pas de ligne vide au milieu des données.
 
-Déroulé conseillé :
-1. Importer ou ouvrir le CSV dans Excel.
-2. Vérifier rapidement que chaque colonne a un titre et que les types de données sont cohérents.
-3. Créer un TCD : compter les demandes par catégorie et origine.
-4. Créer une deuxième vue : somme des heures par domaine, éventuellement par service.
-5. Ajouter un filtre ou un segment simple pour montrer que le TCD peut être exploré.
-6. Créer un graphique croisé dynamique depuis le TCD.
-7. Ajouter une ligne fictive à la source, puis actualiser le TCD et vérifier que le graphique suit.
-
-Point pédagogique :
-L'exercice doit leur faire manipuler la chaîne complète : source propre, TCD, champs, filtres, actualisation, graphique.
+Attention : après modification de la source, le TCD et son graphique doivent être actualisés.
 -->

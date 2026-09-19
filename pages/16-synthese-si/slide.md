@@ -18,3 +18,7 @@ Ces deux fonctions permettent de résumer une liste selon un critère.
 - `NB.SI` compte les lignes qui respectent un critère.
 - `SOMME.SI` additionne les montants qui respectent un critère.
 - Le critère peut être un texte, un nombre ou une comparaison.
+
+<!--
+Tip : les critères contenant un opérateur s'écrivent entre guillemets, par exemple `">100"` ou `"<>Paris"`. Pour comparer à une cellule : `">"&A1`.
+-->

@@ -26,3 +26,9 @@ $F$2   // colonne F et ligne 2 bloquées
 - `B5` se déplace lors de la recopie.
 - `$F$2` reste fixe.
 - Utile pour un taux de TVA, une remise ou un coefficient commun.
+
+<!--
+À retenir : le `$` bloque la partie de la référence placée après lui : `$F` bloque la colonne, `$2` bloque la ligne et `$F$2` bloque les deux.
+
+Tip : pendant l'édition d'une référence, `F4` permet sous Windows de faire défiler rapidement les variantes `A1`, `$A$1`, `A$1` et `$A1`.
+-->

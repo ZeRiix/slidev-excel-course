@@ -17,9 +17,7 @@ image: ./image.png
 ```
 
 <!--
-À expliquer à l'oral :
-- Une plage nommée est surtout un confort de lecture.
-- Dans une formule longue, `Catalogue` est plus facile à comprendre que `$A$2:$D$6`.
-- Faire le lien avec les références absolues : l'objectif est aussi d'éviter les décalages à la recopie.
-- Montrer la zone de nom dans Excel avec une petite capture ou une démo directe.
+À retenir : une plage nommée est simplement un nom donné à une zone de cellules. Elle rend les formules plus lisibles et évite de répéter des références comme `$A$2:$D$6`.
+
+Tip : pour nommer rapidement une plage, sélectionnez-la puis saisissez son nom dans la zone de nom située à gauche de la barre de formule.
 -->

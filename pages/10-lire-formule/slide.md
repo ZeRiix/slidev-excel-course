@@ -193,3 +193,7 @@ slide_info: false
   color: #16a34a;
 }
 </style>
+
+<!--
+Tip : lorsqu'une formule contient plusieurs fonctions imbriquées, commencez par comprendre les fonctions les plus internes puis remontez vers l'extérieur.
+-->

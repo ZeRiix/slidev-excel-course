@@ -25,3 +25,9 @@ Il est possible d'imbriquer les conditions entre elles afin de construire des co
   "Priorité normale"
 )
 ```
+
+<!--
+À retenir : une condition produit un résultat logique : `VRAI` ou `FAUX`. `SI` choisit ensuite la valeur à retourner selon ce résultat.
+
+Tip : avant d'intégrer plusieurs conditions dans un `SI`, testez-les séparément pour vérifier leur résultat.
+-->
