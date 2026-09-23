@@ -95,13 +95,17 @@ src: ./24-creer-tcd/slide.md
 ---
 
 ---
-src: ./25-graphiques/slide.md
+src: ./25-penser-tcd/slide.md
 ---
 
 ---
-src: ./26-exercice-tcd/slide.md
+src: ./26-graphiques/slide.md
 ---
 
 ---
-src: ./27-raccourcis-clavier/slide.md
+src: ./27-exercice-tcd/slide.md
+---
+
+---
+src: ./28-raccourcis-clavier/slide.md
 ---
