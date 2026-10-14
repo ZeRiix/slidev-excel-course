@@ -18,7 +18,7 @@ Exemples :
 - Chiffre d'affaires par `Produit` et par `Mois`
 - Analyse limitée par `Canal`
 
-<TheDownload label="Télécharger l'exemple" href="example-tcd.xlsx" />
+<TheDownload label="Télécharger l'exemple" href="./example-tcd.xlsx" />
 
 <!--
 À retenir : un TCD n'est pas d'abord une manipulation Excel. C'est une traduction d'une question métier en structure d'analyse.
